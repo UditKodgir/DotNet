@@ -30,7 +30,7 @@ namespace CollectionEmployeeList
             {
                 Console.WriteLine(e.Pempid);
                 Console.WriteLine(e.Pname);
-                Console.WriteLine(e.Psalary);
+                Console.WriteLine(e.Psalary); 
             }
             Console.ReadLine();
         }
